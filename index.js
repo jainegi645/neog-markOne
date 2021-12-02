@@ -6,13 +6,22 @@ var score = 0;
 var questions = [{
   question: "What is my hometown?: ",
   answer: "uttrakhand"
-}, {
+}, 
+{
   question: "My favorite sports?: ",
   answer: "football"
 },
 {
   question: "My nick name?: ",
   answer: "Lucky"
+},
+{
+  question: "My fav. song?: ",
+  answer: "Gumaan"
+},
+{
+  question: "My pet name?: ",
+  answer: "browny"
 }];
 
 function welcome() {
